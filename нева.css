@@ -1,0 +1,112 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+main {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 10px;
+	font-size: 20px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+}
+
+.menu {
+	display: flex;
+	justify-content: center;
+	background-color: #FFB273;
+}
+
+.ul {
+	margin-right: 100px;
+	background-color: #FFB273;
+}
+
+h2 {
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+}
+
+.div1 {
+	display: flex;
+}
+
+.div2 {
+	display: flex;
+}
+
+.div3 {
+	display: flex;
+}
+
+.divi {
+	display: flex;
+	justify-content: space-between;
+}
+
+body {
+	background-image: url(img/фон2.jpg);
+}
+
+header {
+	background-color: #FF7400;
+}
+
+footer {
+	background-color: #FF7400;
+}
+
+a {
+	text-decoration: none;
+	color: #191970;
+}
+
+.logo {
+	border-radius: 35px;
+}
+
+.divi {
+	margin-top: 30px;
+}
+
+.img1 {
+	margin-top: 100px;
+}
+
+.img2 {
+	margin-top: 50px;
+}
+
+.div10 {
+	margin-right: 50px;
+}
+
+p {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
